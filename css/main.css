@@ -33,3 +33,58 @@ p {
   font-size: 0.875rem;
   margin: 0;
 }
+
+cite {
+  font-size: 0.875rem;
+}
+
+div {
+  width: 100%;
+  border-left: .5px solid #333
+  padding: .5em .5em .3em .5em;
+}
+
+h1 {
+  text-align: center;
+  color: black;
+}
+
+.btn {
+  padding: 0.4em 0.75em 0.3em;
+  border-radius: 8px;
+  border-width: 3px;
+  border-color: #333;
+  border-style: solid;
+  margin: 0;
+  background-color: #333;
+  color: #fff;
+  display: inline-block;
+  font-size: 1.125rem;
+  text-decoration: none;
+  text-align: left;
+}
+
+.btn-small {
+  font-size: 0.875rem;
+}
+
+.btn:hover {
+  background-color: #000;
+  border-color: #000;
+}
+
+.card1 {
+  background-color: #e2e2e2;
+}
+
+.card2 {
+  background-color: #ccc;
+}
+
+.card3 {
+  background-color: #aaa;
+}
+
+.card4 {
+  background-color: #999;
+}
